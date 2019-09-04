@@ -30,10 +30,8 @@ public class MainActivity extends AppCompatActivity {
         binding.setUser(user);
 
 
-//        Comiitttttttttttttt
-
-
-//        Hiiii
-//k njknhjkk ,
+//  Comiitttttttttttttt
+//  Hiiii
+//  k njknhjkk ,
     }
 }
