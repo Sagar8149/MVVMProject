@@ -42,20 +42,19 @@ public class MainActivity extends AppCompatActivity {
         //this is coment 1
         user.getEmail();
 
-//+
-//        ==
-//        =++
-//        ==
-//        =
-//        ++=
-//                =++
-//ertstnr yr
-//        ltjkdrijij drijgikdjik
-//                kjhkfhkf
-//                        oeiroeioeitaoqe
-//                        qwqeqeqr
-//        Push request succesfully done
 
+//
+//        1
+//                2
+//                        3
+//                                4
+//                                        5
+//                                                6
+//                                                        7
+//                                                                8
+//                                                                        9
+//                                                                                10
+        
 
 
     }
