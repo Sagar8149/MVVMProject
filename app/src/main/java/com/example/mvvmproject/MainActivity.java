@@ -29,9 +29,20 @@ public class MainActivity extends AppCompatActivity {
 
         binding.setUser(user);
 
+//this is coment 1
+        //this is coment 1
+        //this is coment 1
+        //this is coment 1//this is coment 1//this is coment 1
+        //this is coment 1
+        //this is coment 1
+        //this is coment 1
+        //this is coment 1//this is coment 1
+        //this is coment 1
+        //this is coment 1//this is coment 1
+        //this is coment 1
+        user.getEmail();
 
-//  Comiitttttttttttttt
-//  Hiiii
-//  k njknhjkk , hghgghhgg
+
+
     }
 }
