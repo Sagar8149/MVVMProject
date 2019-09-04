@@ -29,5 +29,8 @@ public class MainActivity extends AppCompatActivity {
 
         binding.setUser(user);
 
+
+//        Comiitttttttttttttt
+
     }
 }
